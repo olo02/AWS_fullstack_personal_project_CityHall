@@ -84,13 +84,13 @@ $ git clone https://github.com/olo02/AWS_fullstack_personal_project_CityHall.git
 ### 요구사항
 
 <div align="center">
-<img width="300" alt="image" src="https://github.com/olo02/AWS_fullstack_personal_project_CityHall/assets/121186383/10d3a404-9b33-4c96-aa5d-f5995a22d930">
+<img width="500" alt="image" src="https://github.com/olo02/AWS_fullstack_personal_project_CityHall/assets/121186383/10d3a404-9b33-4c96-aa5d-f5995a22d930">
 </div>
 
 ### ERD
 
 <div align="center">
-<img width="300" alt="image" src="https://github.com/olo02/AWS_fullstack_personal_project_CityHall/assets/121186383/a9235f53-3d69-47cf-b5c6-49aa2cb646bc">
+<img width="500" alt="image" src="https://github.com/olo02/AWS_fullstack_personal_project_CityHall/assets/121186383/a9235f53-3d69-47cf-b5c6-49aa2cb646bc">
 </div>
 
 ---
